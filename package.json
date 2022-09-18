@@ -1,0 +1,11 @@
+{
+  "name": "template",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.1.0"
+  },
+  "dependencies": {
+    "buchta": "^0.3.2"
+  }
+}
